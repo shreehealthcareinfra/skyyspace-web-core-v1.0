@@ -72,7 +72,7 @@ document.getElementById('hamburger').addEventListener('click', () => {
                         </div>
                         <div class="breakdown-item">
                             <span>Area</span>
-                            <span>${area.toFixed(2)} sq.m</span>
+                            <span>${area.toFixed(2)} sq ft</span>
                         </div>
                         <div class="final-price">
                             Final Quote: ₹${price.toFixed(3)}
